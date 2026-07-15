@@ -3,6 +3,19 @@ Passionate Data Analyst &amp; AI Engineering student specializing in Python, SQL
 
 <div align="center">
 
+<img src="assets/portfolio-banner.png" width="100%">
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+<div align="center">
+
 <img src="assets/portfolio-banner.png" alt="Portfolio Banner" width="100%">
 
 # 🌐 Personal Portfolio Website
