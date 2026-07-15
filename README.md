@@ -1,6 +1,27 @@
 # portfolio
 Passionate Data Analyst &amp; AI Engineering student specializing in Python, SQL, Power BI and Machine Learning. I build data-driven solutions, interactive dashboards and predictive models that transform raw data into actionable business insights.  &lt;/p>
 
+<div align="center">
+
+<img src="assets/portfolio-banner.png" alt="Portfolio Banner" width="100%">
+
+# 🌐 Personal Portfolio Website
+
+### 🚀 Data Science | Machine Learning | Data Analytics | Artificial Intelligence | Web Development
+
+</div>
+
+---
+
+Welcome to my personal portfolio website! 🚀  
+
+This portfolio showcases my skills, projects, internships, and experience in **Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Web Development**.
+
+🔗 **Live Website:**  
+https://Samrudhi-J07.github.io/portfolio/
+
+---
+
 # 🌐 Personal Portfolio Website
 
 ![Portfolio Banner](add-your-screenshot-link-here)
