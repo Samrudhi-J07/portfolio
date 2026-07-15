@@ -3,7 +3,13 @@ Passionate Data Analyst &amp; AI Engineering student specializing in Python, SQL
 
 <div align="center">
 
-  <img src="./assets/portfolio-banner.png" alt="Portfolio Banner" width="100%">
+# 🌐 Personal Portfolio Website
+
+### 🚀 Data Science | Machine Learning | Data Analytics | Artificial Intelligence | Web Development
+
+<p>
+A modern responsive portfolio showcasing my skills, projects, internships, and experience.
+</p>
 
 <br>
 
@@ -14,37 +20,13 @@ Passionate Data Analyst &amp; AI Engineering student specializing in Python, SQL
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
-<div align="center">
-
-<img src="assets/portfolio-banner.png" alt="Portfolio Banner" width="100%">
-
-# 🌐 Personal Portfolio Website
-
-### 🚀 Data Science | Machine Learning | Data Analytics | Artificial Intelligence | Web Development
-
-</div>
 
 ---
-
-Welcome to my personal portfolio website! 🚀  
-
-This portfolio showcases my skills, projects, internships, and experience in **Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Web Development**.
 
 🔗 **Live Website:**  
 https://Samrudhi-J07.github.io/portfolio/
 
 ---
-
-# 🌐 Personal Portfolio Website
-
-![Portfolio Banner](add-your-screenshot-link-here)
-
-Welcome to my personal portfolio website! 🚀  
-
-This portfolio showcases my journey, technical skills, projects, internships, and achievements in **Data Analytics, Data Science, Machine Learning, Artificial Intelligence, and Web Development**.
-
-🔗 **Live Website:**  
-https://Samrudhi-J07.github.io/portfolio/
 
 ---
 
