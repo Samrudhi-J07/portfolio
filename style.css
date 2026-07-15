@@ -1,3 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+/* Fade In Animation */
+
+.fade-in {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s ease;
+}
+
+.fade-in.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
+
 :root {
     --bg-primary: #0F172A;
     --bg-secondary: #1E293B;
@@ -378,6 +396,8 @@ body {
     margin-bottom: 0.8rem;
 }
 
+
+
 /* Projects & Dashboards */
 .projects-section {
     padding: 6rem 10%;
@@ -645,4 +665,64 @@ footer .ai-credit {
 
 .contact-card{
     text-align:center;
+}
+
+
+
+
+.name{
+
+background:linear-gradient(
+90deg,
+#3B82F6,
+#06B6D4,
+#8B5CF6
+);
+
+background-size:200%;
+
+-webkit-background-clip:text;
+
+-webkit-text-fill-color:transparent;
+
+animation:gradientMove 4s infinite;
+
+}
+
+
+@keyframes gradientMove{
+
+0%{
+background-position:0%;
+}
+
+50%{
+background-position:100%;
+}
+
+100%{
+background-position:0%;
+}
+
+}
+
+/* Visitor Counter */
+
+.visitor-counter{
+
+    margin-top:20px;
+
+    color:#94A3B8;
+
+    font-size:0.9rem;
+
+}
+
+
+.visitor-counter img{
+
+    margin-left:8px;
+
+    vertical-align:middle;
+
 }
